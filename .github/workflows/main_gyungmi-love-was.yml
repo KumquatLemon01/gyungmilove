@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'gyungmi-love-was'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0BE7E5F12DF42999C916A04BAA6CE0D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D58F3ACE1E23465692500A8B7DF32642 }}
           package: '*.jar'
